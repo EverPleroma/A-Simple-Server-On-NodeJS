@@ -1,4 +1,4 @@
-<p>This is a simple server using the core <code> node:http</code> module that can handle multiple concurrent requests. </p>
+<p>This is a simple server using the core <code>node:http</code> module that can handle multiple concurrent requests. </p>
 
 <p>Each request responds with a message after a random delay (simulating some asynchronous operation) without blocking the server.</p>
  
